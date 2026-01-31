@@ -6,7 +6,7 @@ pipeline {
 
         stage('Clone') {
             steps {
-                git ''
+                git 'https://github.com/PEKETIJAGADEESH/myrepo.git'
             }
         }
 
