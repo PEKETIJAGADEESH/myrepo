@@ -17,7 +17,7 @@
    
   </dependencies>
   <build>
-    <finalName>mentor ship</finalName>
+    <finalName>mentor-ship</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
